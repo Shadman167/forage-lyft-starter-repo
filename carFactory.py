@@ -1,6 +1,6 @@
 from car import Car
 from battery.nubbingBattery import nubbingBattery
-from battery.spindlerBattery import  spindlerBattery
+from battery.spindlerBattery import spindlerBattery
 from engine.sternman_engine import SternmanEngine
 from engine.willoughby_engine import WilloughbyEngine
 from engine.capulet_engine import CapuletEngine
